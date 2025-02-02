@@ -1,0 +1,2 @@
+# CodeExercises
+Python exercises
